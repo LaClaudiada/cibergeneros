@@ -4,12 +4,13 @@ Número de vehículos motorizados por clase en el año 2016 en Ecuador
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<div><iframe id="datawrapper-chart-6SyMp" src="//datawrapper.dwcdn.net/6SyMp/2/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="358"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["6SyMp"]={},window.datawrapper["6SyMp"].embedDeltas={"100":490,"200":464,"300":411,"400":385,"500":385,"700":358,"800":358,"900":358,"1000":358},window.datawrapper["6SyMp"].iframe=document.getElementById("datawrapper-chart-6SyMp"),window.datawrapper["6SyMp"].iframe.style.height=window.datawrapper["6SyMp"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["6SyMp"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("6SyMp"==b)window.datawrapper["6SyMp"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-<iframe id="datawrapper-chart-6SyMp" src="//datawrapper.dwcdn.net/6SyMp/2/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="358"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["6SyMp"]={},window.datawrapper["6SyMp"].embedDeltas={"100":490,"200":464,"300":411,"400":385,"500":385,"700":358,"800":358,"900":358,"1000":358},window.datawrapper["6SyMp"].iframe=document.getElementById("datawrapper-chart-6SyMp"),window.datawrapper["6SyMp"].iframe.style.height=window.datawrapper["6SyMp"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["6SyMp"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("6SyMp"==b)window.datawrapper["6SyMp"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
 
 - Bulleted
 - List
